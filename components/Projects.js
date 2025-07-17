@@ -3,9 +3,9 @@ export default function Projects() {
     <section className="p-6">
       <h2 className="text-2xl font-bold mb-2">Projects</h2>
       <ul className="list-disc ml-6">
-        <li>Portfolio Website – Built using Next.js and Tailwind CSS</li>
-        <li>Task Manager App – A to-do manager built in React and Firebase</li>
-        <li>Weather App – Simple app using OpenWeatherMap API and Vanilla JS</li>
+        <li><strong>Capability Attestation</strong> – Developed for Citi Bank to manage and optimize capabilities within applications, enhancing performance and alignment with business functionality. (Aug 2023 – Present)</li>
+        <li><strong>Resource Projection</strong> – Built for Citi Bank to manage resource allocation with dynamic views for use case mapping, availability tracking, and team utilization. Integrated combotree and Gantt chart. (Aug 2022 – Apr 2023)</li>
+        <li><strong>Deferral Tracking</strong> – Created for Citi Bank to manage and analyze deferral requests in real-time. Built backend and frontend with robust SQL support for efficient data processing. (Feb 2022 – Jul 2022)</li>
       </ul>
     </section>
   );
